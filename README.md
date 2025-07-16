@@ -14,4 +14,5 @@ Implement filtering back-projection on CT data using Python
 -scipy>=1.8.0
 
 #Note: The astra-toolbox needs to be installed via Conda
+
 #Run the following command: conda install -c astra-toolbox astra-toolbox

@@ -1,2 +1,2 @@
 # CT_reconstruction_FBP
-Implementing filtered back-projection using Python
+Implement filtering back-projection on CT data using Python

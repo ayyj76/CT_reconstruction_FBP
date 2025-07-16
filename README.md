@@ -17,4 +17,4 @@ Implement filtering back-projection on CT data using Python
 
 #Run the following command: 
 
-conda install -c astra-toolbox astra-toolbox
+conda install -c astra-toolbox -c nvidia astra-toolbox
